@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: Potfolio
+permalink: /Potfolio/
 main_nav: true
 ---
 
