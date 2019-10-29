@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/universecar.png"
 
 # Build settings
 markdown: kramdown
@@ -56,6 +56,9 @@ jekyll-archives:
 descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
+    
+  - cat: 잡담
+    desc: "Talk."
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
@@ -79,7 +82,7 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: ""
     desc: Follow me on Twitter
     share: true
 
@@ -92,15 +95,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: yebiny
+    url: https://github.com/yebiny
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
     username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    url: ""
     desc: Connect with me on LinkedIn
     share: true
 
@@ -125,79 +128,20 @@ social:
     desc: Follow me on Instagram
     share: false
 
-  - name: Pinterest
-    icon: pinterest
-    username: ""
-    url: ""
-    desc: Follow me on Pinterest
-    share: true
 
-  - name: SoundCloud
-    icon: soundcloud
-    username: ""
-    url: ""
-    desc: Follow me on SoundCloud
-    share: false
 
-  - name: Tumblr
-    icon: tumblr
-    username: ""
-    url: ""
-    desc: Follow me on Tumblr
-    share: false
 
-  - name: Steam
-    icon: steam
-    username: ""
-    url: ""
-    desc: Friend me on Steam
-    share: false
-
-  - name: Dribbble
-    icon: dribbble
-    username: ""
-    url: ""
-    desc: Follow me on Dribble
-    share: false
-
-  - name: Vimeo
-    icon: vimeo-square
-    username: ""
-    url: ""
-    desc: Follow me on Vimeo
-    share: false
-
-  - name: Vine
-    icon: vine
-    username: ""
-    url: ""
-    desc: Follow me on Vine
-    share: false
-
-  - name: Reddit
-    icon: reddit
-    username: ""
-    url: ""
-    desc: Share to Reddit
-    share: true
-
-  - name: "Hacker News"
-    icon: hacker-news
-    username: ""
-    url: ""
-    desc: Share to Hacker News
-    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/universecar.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/universecaro.png"
 
     os_repo: "https://github.com/yebiny/yebiny.github.io"
     os_rcs_type: "git"
