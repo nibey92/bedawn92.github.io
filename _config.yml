@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Yebin.Y
-subtitle: "조금씩 많이"
+title: Nibey Style
+subtitle: ""
 email: yebinyoun@gmail.com
-name: Nibey.Y
+name: Nibey
 description: >
   Train, Test, and Predict the World.
 # Base URL of site (i.e. /blog). It should always start with a slash,
