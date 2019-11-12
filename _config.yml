@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "bedawn92.github.io" # the base hostname & protocol for your site
 cover: "/assets/바다1.png"
-logo: "/assets/universecar.png"
+logo: "/assets/로고1.png"
 
 # Build settings
 markdown: kramdown
