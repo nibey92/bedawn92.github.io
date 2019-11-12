@@ -12,14 +12,14 @@ exclude:
 title: Yebin.Y
 subtitle: "조금씩 많이"
 email: yebinyoun@gmail.com
-name: yebiny
+name: Nibey.Y
 description: >
   Train, Test, and Predict the World.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "yebiny4" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/universecar.png"
 
