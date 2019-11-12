@@ -58,7 +58,7 @@ descriptions:
     desc: "Posts describing Jekyll setup techniques."
     
   - cat: talking
-    desc: "Talk."
+    
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
